@@ -1,0 +1,44 @@
+.text-decoration{
+    text-decoration: none;
+    color: rgb(148, 146, 146);
+}
+.mr-10{
+    margin-left: 10px;
+}
+.active{
+    color: black;
+    border-bottom: 1px solid;
+}
+.name{
+    width: 40%;
+}
+.username{
+    width: 50%;
+}
+.name-group{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.address-group{
+    margin-left: 25px;
+}
+Label{
+    color: black;
+}
+.address{
+    width: 50%;
+}
+.company-address{
+    width: 47%;
+}
+.address-wrapper{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button{
+   margin-left: 30%;
+    width: 30%;
+}
